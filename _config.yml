@@ -1,4 +1,5 @@
 name: Kevin Ren
+title: Welcome to my homepage!
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
